@@ -18,9 +18,8 @@
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)  
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-<img src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif?cid=ecf05e47vqv12o1tb1mp8pvvss54vi90shcat64cnpievwk8&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 
-
+![snake gif](https://github.com/Fleria/Fleria/blob/output/github-snake-dark.svg)
 <!--
 **Fleria/fleria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
