@@ -17,7 +17,7 @@
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)  
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)  
 
-![GIF](https://media.tenor.com/9B1cS1KhqFgAAAAC/dancing-luci-eric-andr%C3%A9.gif)
+![GIF](https://media1.tenor.com/m/I-u1rgO3OB4AAAAC/dancing-luci.gif)
 
 
 <!--
