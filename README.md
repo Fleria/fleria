@@ -17,7 +17,7 @@
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)  
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)  
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fluci-disenchantment-noice-nice-gif-14838989&psig=AOvVaw0QpURoF64xzZZzNRGgks8n&ust=1738327399157000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOD4qay8nYsDFQAAAAAdAAAAABAZ" width="500"/>
+![](https://media.tenor.com/9B1cS1KhqFgAAAAC/dancing-luci-eric-andr%C3%A9.gif)
 
 
 <!--
