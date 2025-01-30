@@ -1,7 +1,9 @@
 ## Fleria
 
 🚀 Electrical and Computer Engineering Student at National Technical University of Athens 
+
 💻 Specialise in Communication Networks, Software, Computer Systems, Machine Learning, Security
+
 📫 Reach me at: [LinkedIn](https://linkedin.com/in/eleftheria-arkadopoulou/)
 
 ### 🔧 Tools  
