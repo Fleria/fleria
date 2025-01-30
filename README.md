@@ -4,7 +4,7 @@
 
 💻 Specialise in Communication Networks, Software, Computer Systems, Machine Learning, Security
 
-📫 Reach me at: [LinkedIn](https://linkedin.com/in/eleftheria-arkadopoulou/)
+📫 Reach me at my [linkedIn](https://linkedin.com/in/eleftheria-arkadopoulou/)
 
 ### 🔧 Tools  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
@@ -16,8 +16,6 @@
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)  
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)  
-
-![GIF](https://media1.tenor.com/m/I-u1rgO3OB4AAAAC/dancing-luci.gif)
 
 
 <!--
