@@ -2,8 +2,9 @@
 
 🚀 Electrical and Computer Engineering Student at National Technical University of Athens 
 💻 Specialise in Communication Networks, Software, Computer Systems, Machine Learning, Security
+📫 Reach me at: [LinkedIn]([https://linkedin.com/in/eleftheria-arkadopoulou/]
 
-### 🔧 Technologies & Tools  
+### 🔧 Tools  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
@@ -14,8 +15,8 @@
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)  
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)  
 
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+### 📊 Stats  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=pie&theme=dark)
 
 
 <!--
