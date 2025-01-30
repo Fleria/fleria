@@ -18,7 +18,7 @@
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)  
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+<img src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif?cid=ecf05e47vqv12o1tb1mp8pvvss54vi90shcat64cnpievwk8&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 
 
 <!--
