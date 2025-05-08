@@ -1,5 +1,6 @@
 ## Fleria
 
+🚀 Electrical and Computer Engineering post-grad @ NTUA
 
 💻 Specialised in Communication Networks, Software, Computer Systems, Machine Learning & Artificial Intelligence, Cybersecurity
 
