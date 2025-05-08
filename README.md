@@ -1,6 +1,5 @@
 ## Fleria
 
-🚀 Researcher @ [NETMODE](https://www.netmode.ntua.gr/) lab, Faculty of Electrical and Computer Engineering, National Technical University of Athens 
 
 💻 Specialised in Communication Networks, Software, Computer Systems, Machine Learning & Artificial Intelligence, Cybersecurity
 
