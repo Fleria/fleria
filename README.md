@@ -2,7 +2,7 @@
 
 🚀 Electrical and Computer Engineering post-grad @ NTUA
 
-💻 Specialised in Communication Networks, Software, Computer Systems, Machine Learning & Artificial Intelligence, Cybersecurity
+💻 Specialised in Computer Networks, Software, Computer Systems, Machine Learning & Artificial Intelligence, Cybersecurity
 
 📫 Reach me at my [LinkedIn](https://linkedin.com/in/eleftheria-arkadopoulou/)
 
